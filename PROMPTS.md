@@ -1,0 +1,1 @@
+Create a modern and responsive newsletter subscription section for a website footer, suitable for capturing visitor emails. Please provide both the HTML and CSS code so I can easily copy and paste it into my project.
